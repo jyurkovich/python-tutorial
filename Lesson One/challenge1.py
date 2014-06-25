@@ -5,7 +5,7 @@
 # In[1]:
 
 # Write a script that takes this string as input and breaks the code to read the message contained within:
-# espqtcdeapcdzyezdzwgpestdrpedespstrspdezqqtgpd
+# espqtcdeapcdzyezdzwsdsdgpestdrpedespstrspdezqqtgpd
 # This code was encrypted using a shift cipher of 11 (t = t + 11 = e, h = h + 11 = s). Hint: use a dict to define the shift (code dict using a for loop; do not hardcode it) and cycle through the message using a for loop.
 
 code = 'espqtcdeapcdzyezdzwgpestdrpedespstrspdezqqtgpd'
